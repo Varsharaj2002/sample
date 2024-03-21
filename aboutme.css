@@ -1,0 +1,20 @@
+h1{
+color: red;
+text-align: center;
+font-size: 60px;
+background-color:white;
+}
+#div1{
+border: 2px solid black;
+}
+#div2{
+border: 2px solid black;
+width:20%;
+height:500px;
+padding:50px;
+}
+
+body{
+background-image:url("https://images.photowall.com/products/53488/light-blue-clouds.jpg?h=699&q=85");
+background-size:cover;
+}
